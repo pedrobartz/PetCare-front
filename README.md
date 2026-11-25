@@ -9,12 +9,12 @@ Aplicativo em React Native com Expo que consome a API de microservices do pet sh
 | Nome | RA | E-mail | Área |
 | --- | --- | --- | --- |
 | Carlos Eduardo Zanin | 1138275 | 1138275@atitus.edu.br | Front-end |
-| Pedro Luis Alves Bartz | A informar | A informar | Front-end |
+| Pedro Luis Alves Bartz | 1135935 | 1135935@atitus.edu.br | Front-end |
 | Yuri Duarte Theisen | 1125371 | 1125371@atitus.edu.br | Front-end |
 | Pedro Henrique Moreschi Rizzotto | 1138024 | 1138024@atitus.edu.br | Back-end |
 | João Vitor da Silva | 1138170 | 1138170@atitus.edu.br | Back-end |
 | Leonardo Grimm Maziero | 1137914 | 1137914@atitus.edu.br | Back-end |
-| Rafael Scortegagna Pedra | A informar | A informar | Back-end |
+| Rafael Scortegagna Pedra | 1136090 | 1136090@atitus.edu.br | Back-end |
 
 O back-end está em [github.com/PedroRizzotto/microservices-java](https://github.com/PedroRizzotto/microservices-java).
 
